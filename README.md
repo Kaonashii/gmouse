@@ -50,7 +50,10 @@ position with Mouse.move().
 
  * The mouse should be comfortable to hold in the air
   * We should consider making a brace / wrist mount to reduce tension from holding the mouse
+  * What I thought is design like anti sstatic band(https://www.google.ca/search?q=anti+static+band&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj0zs_F6ozMAhXhkIMKHXADAMAQ_AUIBygB&biw=1920&bih=955#imgrc=vjo1TQkYY17gMM%3A)
  * The buttons should be comfortable to reach from rest position (left/right and top buttons)
+ * Front part of whole frame should go down to click the button (when we make it like apple mouse both button will be clicked, so we need way of recognizing which button was clicked strongly)
+ * LED (Branding *cough cough) should not affect user what so ever, since no one wants led shining their eye
 
 ### Button Input
 
@@ -61,8 +64,11 @@ harvest any extra parts we need from scrap in the compeng room.
 
 ### Misc
 
-  * I guess we need an obnoxious logo?
+  * Since I love branding lets put logo! -Jasper-
   * LED at bottom of the shell 
+  * piece of adhesive sheet with carved logo 
 
 ##### Anything else?
+
+- I thought about why we need mousewheel for the mouse, well it is because we need to scroll down. however, if we can insert two buttons that will serve as pg Down and pg Up we don't really need to have a mouse button what do you guys think?
 
